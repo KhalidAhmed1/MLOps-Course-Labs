@@ -6,10 +6,10 @@ on:
     branches: [research]
 
 env:
-  AWS_REGION: eu-north-1
-  ECR_REPOSITORY: mlops-churn-classifier
-  IMAGE_NAME: ${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.eu-north-1.amazonaws.com/mlops-churn-classifier
-
+  ECR_REGISTRY: ${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.${{ secrets.AWS_REGION }}.amazonaws.com
+  ECR_REPOSITORY: churn-prediction-api
+  IMAGE_NAME: ${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.${{ secrets.AWS_REGION }}.amazonaws.com/churn-prediction-api
+  
 jobs:
   # Stage 1: Test and Validation
   test:
