@@ -1,0 +1,12 @@
+# Production dependencies only (no testing/linting tools)
+numpy==2.2.5
+pandas==2.2.3
+psutil==5.9.0
+scikit-learn==1.6.1
+scipy==1.15.2
+
+# Churn API (FastAPI service)
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic-settings==2.7.0
+httpx==0.27.0
