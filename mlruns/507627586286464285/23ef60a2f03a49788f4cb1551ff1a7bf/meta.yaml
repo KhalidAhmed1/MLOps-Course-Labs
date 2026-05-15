@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/23ef60a2f03a49788f4cb1551ff1a7bf/artifacts
+deleted_time: 1778727013517
+end_time: 1778726164067
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: deleted
+run_id: 23ef60a2f03a49788f4cb1551ff1a7bf
+run_name: gentle-duck-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778726163999
+status: 4
+tags: []
+user_id: win11

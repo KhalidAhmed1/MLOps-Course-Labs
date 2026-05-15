@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/caf8147ac5004025bec6995fa87b6a54/artifacts
+end_time: 1778727449224
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: active
+run_id: caf8147ac5004025bec6995fa87b6a54
+run_name: logistic_l1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778727431381
+status: 3
+tags: []
+user_id: win11

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/models/m-3d520a07cd8847c9817927b482e01a91/artifacts
+creation_timestamp: 1778725925491
+experiment_id: '507627586286464285'
+last_updated_timestamp: 1778725945861
+model_id: m-3d520a07cd8847c9817927b482e01a91
+model_type: null
+name: preprocessor
+source_run_id: d0d8a0e836684047a66fc7a5c35978ac
+status: 2
+status_message: null

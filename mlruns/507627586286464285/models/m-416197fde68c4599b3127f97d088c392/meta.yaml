@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/models/m-416197fde68c4599b3127f97d088c392/artifacts
+creation_timestamp: 1778726920841
+experiment_id: '507627586286464285'
+last_updated_timestamp: 1778726931180
+model_id: m-416197fde68c4599b3127f97d088c392
+model_type: null
+name: model
+source_run_id: a85ca08abe1a46a4a4fbf10fa09dc945
+status: 2
+status_message: null

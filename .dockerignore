@@ -1,0 +1,34 @@
+# Git and editor
+.git
+.gitignore
+.cursor
+.idea
+.vscode
+
+# Python caches / envs
+__pycache__
+*.py[cod]
+*$py.class
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.venv
+venv
+env
+
+# Tests and dev-only
+tests
+*.md
+
+# Not needed inside the API image (mount champion bundle at runtime)
+<!-- mlruns -->
+dataset
+src/Cleaner_version
+src/train.py
+
+# Local secrets (use `docker run -e` / compose env instead)
+.env
+.env.*
+
+# Misc artifacts at repo root
+confusion_matrix.png

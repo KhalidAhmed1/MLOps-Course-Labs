@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/abfb98f9f0914e97bda34b6df00b6921/artifacts
+deleted_time: 1778727013510
+end_time: 1778725977081
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: deleted
+run_id: abfb98f9f0914e97bda34b6df00b6921
+run_name: unique-smelt-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778725977018
+status: 4
+tags: []
+user_id: win11

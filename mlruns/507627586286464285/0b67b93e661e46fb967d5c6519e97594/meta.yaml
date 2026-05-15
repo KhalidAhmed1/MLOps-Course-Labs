@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/0b67b93e661e46fb967d5c6519e97594/artifacts
+deleted_time: 1778727013513
+end_time: 1778726384234
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: deleted
+run_id: 0b67b93e661e46fb967d5c6519e97594
+run_name: luminous-moth-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778726360845
+status: 3
+tags: []
+user_id: win11

@@ -1,0 +1,15 @@
+artifact_path: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/models/m-0fc8012f5f204952b17a79c6e6cc098b/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-0fc8012f5f204952b17a79c6e6cc098b
+model_size_bytes: 2252
+model_uuid: m-0fc8012f5f204952b17a79c6e6cc098b
+prompts: null
+run_id: a85ca08abe1a46a4a4fbf10fa09dc945
+utc_time_created: '2026-05-14 02:48:30.692051'

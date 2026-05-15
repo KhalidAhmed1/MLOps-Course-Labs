@@ -1,0 +1,39 @@
+artifact_path: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/models/m-c5798de95ec64b3f96826c5f9bab390d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.9.0
+model_id: m-c5798de95ec64b3f96826c5f9bab390d
+model_size_bytes: 205225
+model_uuid: m-c5798de95ec64b3f96826c5f9bab390d
+prompts: null
+run_id: 2880a82143b54348bd6d125449ed9122
+signature:
+  inputs: '[{"type": "double", "name": "standardscaler__CreditScore", "required":
+    true}, {"type": "double", "name": "standardscaler__Age", "required": true}, {"type":
+    "double", "name": "standardscaler__Tenure", "required": true}, {"type": "double",
+    "name": "standardscaler__Balance", "required": true}, {"type": "double", "name":
+    "standardscaler__NumOfProducts", "required": true}, {"type": "double", "name":
+    "standardscaler__HasCrCard", "required": true}, {"type": "double", "name": "standardscaler__IsActiveMember",
+    "required": true}, {"type": "double", "name": "standardscaler__EstimatedSalary",
+    "required": true}, {"type": "double", "name": "onehotencoder__Geography_Germany",
+    "required": true}, {"type": "double", "name": "onehotencoder__Geography_Spain",
+    "required": true}, {"type": "double", "name": "onehotencoder__Gender_Male", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-05-14 02:57:39.144770'

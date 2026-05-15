@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/a85ca08abe1a46a4a4fbf10fa09dc945/artifacts
+deleted_time: 1778739561947
+end_time: 1778726931769
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: deleted
+run_id: a85ca08abe1a46a4a4fbf10fa09dc945
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778726910329
+status: 3
+tags: []
+user_id: win11

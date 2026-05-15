@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/d0d8a0e836684047a66fc7a5c35978ac/artifacts
+deleted_time: 1778727013511
+end_time: 1778725964042
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: deleted
+run_id: d0d8a0e836684047a66fc7a5c35978ac
+run_name: capable-pig-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778725925137
+status: 3
+tags: []
+user_id: win11

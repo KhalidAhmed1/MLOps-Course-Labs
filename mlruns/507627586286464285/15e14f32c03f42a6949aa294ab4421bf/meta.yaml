@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/win11/Documents/GitHub/MLOps-Course-Labs/mlruns/507627586286464285/15e14f32c03f42a6949aa294ab4421bf/artifacts
+deleted_time: 1778739561935
+end_time: 1778726976591
+entry_point_name: ''
+experiment_id: '507627586286464285'
+lifecycle_stage: deleted
+run_id: 15e14f32c03f42a6949aa294ab4421bf
+run_name: gradient_boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778726954590
+status: 3
+tags: []
+user_id: win11
